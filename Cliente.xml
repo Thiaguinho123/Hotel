@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cliente>
+    <Id>1</Id>
+    <Nome>teste</Nome>
+    <CPF>00000</CPF>
+    <Fone>00000</Fone>
+    <DataNascimento>2022-03-03T00:00:00</DataNascimento>
+    <Sexo>Masculino</Sexo>
+  </Cliente>
+</ArrayOfCliente>
